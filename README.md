@@ -1,3 +1,5 @@
+All links to my repositories in General Assembly Bahrain as Software Engineering Immersive Batch 2 student
+
 ## Week 10 Deliverables
 * [17 Jan 2023]  [React Film Lab](https://git.generalassemb.ly/sami-a/Week10Day03.git)
 * [16 Jan 2023]  [Floor Plan](https://git.generalassemb.ly/sami-a/Week10Day02.git)
